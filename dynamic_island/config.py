@@ -1,0 +1,10 @@
+WIN_W, WIN_H = 480, 250
+ISLAND_W, ISLAND_H = 300, 34
+PANEL_W, PANEL_H = 320, 170
+ISLAND_TOP = 30
+CX = WIN_W / 2
+CY = ISLAND_TOP + ISLAND_H / 2
+
+FONT_STACK = ["Segoe UI Variable Display", "Segoe UI", "Microsoft YaHei UI"]
+
+REFRESH_INTERVAL_MS = 3000
