@@ -2,7 +2,7 @@
 
 仿 macOS 灵动岛风格的 Windows 电量悬浮窗，常驻屏幕顶部，实时显示电池电量、毫安容量与充电状态。基于 PySide6，无边框逐像素透明窗口 + QPainter 绘制，无第三方托盘库依赖。
 
-![preview](docs/reference.jpg)
+![preview](docs/preview.png)
 
 ## 功能
 
